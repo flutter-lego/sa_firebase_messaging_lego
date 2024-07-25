@@ -1,7 +1,3 @@
-import 'package:flutter/foundation.dart';
-
-import '../../../../../../../main.dart';
-
 import 'dart:convert';
 
 class NewFcmDTO {
@@ -1974,3 +1970,4 @@ class NewFcmDTO {
     return object;
   }
 }
+
