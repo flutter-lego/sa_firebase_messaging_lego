@@ -1,7 +1,7 @@
 name: sa_firebase_messaging_lego
 description: "lego is all you need"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/sa_firebase_messaging_lego
 
 version: 1.0.0
 
